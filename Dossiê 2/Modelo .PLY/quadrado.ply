@@ -1,6 +1,6 @@
 ply
 format ascii 1.0
-comment quadrado feito a mão
+comment quadrado 
 element vertex 8
 property float x
 property float y
